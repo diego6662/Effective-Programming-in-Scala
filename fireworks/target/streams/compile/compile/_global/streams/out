@@ -1,0 +1,34 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/diego/Code/scala_course/fireworks/src/main/scala/fireworks/Fireworks.scala:38:21 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m      [33mcase[0m  firework.Waiting => Waiting.next[0m
+[0m[[0m[31merror[0m] [0m[0m   |            [31m^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |            value Waiting is not a member of fireworks.Firework[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/diego/Code/scala_course/fireworks/src/main/scala/fireworks/Fireworks.scala:38:40 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m      [33mcase[0m  firework.Waiting => Waiting.next[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value next is not a member of object fireworks.Waiting - did you mean Waiting.init?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/diego/Code/scala_course/fireworks/src/main/scala/fireworks/Fireworks.scala:39:20 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m39 |[0m      [33mcase[0m firework.Launched => Launched.next[0m
+[0m[[0m[31merror[0m] [0m[0m   |           [31m^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |           value Launched is not a member of fireworks.Firework[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/diego/Code/scala_course/fireworks/src/main/scala/fireworks/Fireworks.scala:39:41 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m39 |[0m      [33mcase[0m firework.Launched => Launched.next[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                [31m^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value next is not a member of object fireworks.Launched - did you mean Launched.init?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/diego/Code/scala_course/fireworks/src/main/scala/fireworks/Fireworks.scala:40:20 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m40 |[0m      [33mcase[0m firework.Exploding => Exploding.next[0m
+[0m[[0m[31merror[0m] [0m[0m   |           [31m^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |           value Exploding is not a member of fireworks.Firework[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/diego/Code/scala_course/fireworks/src/main/scala/fireworks/Fireworks.scala:40:43 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m40 |[0m      [33mcase[0m firework.Exploding => Exploding.next[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                 [31m^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value next is not a member of object fireworks.Exploding - did you mean Exploding.init?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/diego/Code/scala_course/fireworks/src/main/scala/fireworks/Fireworks.scala:41:20 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m41 |[0m      [33mcase[0m firework.Done => firework.Done[0m
+[0m[[0m[31merror[0m] [0m[0m   |           [31m^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value Done is not a member of fireworks.Firework - did you mean firework.clone?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/diego/Code/scala_course/fireworks/src/main/scala/fireworks/Fireworks.scala:41:37 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m41 |[0m      [33mcase[0m firework.Done => firework.Done[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            [31m^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value Done is not a member of fireworks.Firework - did you mean firework.clone?[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

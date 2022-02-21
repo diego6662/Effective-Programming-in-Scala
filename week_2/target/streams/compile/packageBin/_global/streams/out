@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/diego/Code/scala_course/week_2/target/scala-3.1.1/week_2_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AddressBook.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/AddressBook.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Contact$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/Contact$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Contact.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/Contact.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Contact.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/Contact.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AddressBook.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/AddressBook.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AddressBook$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week_2/target/scala-3.1.1/classes/AddressBook$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

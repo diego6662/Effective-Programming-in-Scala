@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: /home/diego/Code/scala_course/week_2/src/main/scala/Main.scala:52:8 --[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m52 |[0m  map_1.coll(a = map_1([31m"a"[0m) + [31m10[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m   |  [31m^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |[33mmethod[0m [35mcoll[0m in [33mtrait[0m [35mIterable[0m cannot be accessed as a member of (map_1 : Map[String, Int]) from module class Main$package$.[0m
+[0m[[0m[31merror[0m] [0m[0m   | Access to protected [33mmethod[0m [35mcoll[0m not permitted because enclosing [33mpackage object[0m [35mMain$package[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   | is not a subclass of [33mtrait[0m [35mIterable[0m in [33mpackage[0m [35mscala.collection[0m where target is defined[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

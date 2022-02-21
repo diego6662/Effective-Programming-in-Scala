@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/diego/Code/scala_course/week1/target/scala-3.1.1/week1_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rectangle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Rectangle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Circle.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Circle.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Circle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Circle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Shape.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Shape.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rectangle.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Rectangle.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rectangle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Rectangle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Shape.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Shape.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Circle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Code/scala_course/week1/target/scala-3.1.1/classes/Circle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,26 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/diego/Code/scala_course/week1/src/main/scala/Main.scala:13:4 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m13 |[0m    someShape [33mmatch[0m [0m
+[0m[[0m[31merror[0m] [0m[0m   |    [31m^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |    Not found: someShape[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/diego/Code/scala_course/week1/src/main/scala/Main.scala:14:39 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m14 |[0m      [33mcase[0m Rectangle(width, height) => width * height[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                       [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                       Not found: width[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/diego/Code/scala_course/week1/src/main/scala/Main.scala:15:29 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m      [33mcase[0m Circle(radius) => radius * radius * [31m3.14[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                             [31m^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                             Not found: radius[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/diego/Code/scala_course/week1/src/main/scala/Main.scala:17:4 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m17 |[0m    someShape [33mmatch[0m [0m
+[0m[[0m[31merror[0m] [0m[0m   |    [31m^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |    Not found: someShape[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/diego/Code/scala_course/week1/src/main/scala/Main.scala:18:39 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m18 |[0m      [33mcase[0m Rectangle(width, height) => width * height[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                       [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                       Not found: width[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/diego/Code/scala_course/week1/src/main/scala/Main.scala:19:29 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m19 |[0m      [33mcase[0m Circle(radius) => radius * radius * [31m3.14[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                             [31m^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                             Not found: radius[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
